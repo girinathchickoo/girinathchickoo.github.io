@@ -1,0 +1,19 @@
+#bg{
+	text-align: center;
+	background:linear-gradient(to right,red,yellow);
+
+}
+
+
+
+h1{
+	font-family: sans-serif;
+	letter-spacing: 20px;
+	font-size: 50px;
+
+}
+
+h2{
+	word-spacing: 20px;
+}
+
