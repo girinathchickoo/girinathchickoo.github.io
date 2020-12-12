@@ -9,7 +9,7 @@ var body=document.getElementById("bg");
 function setcolor(){
 
 	body.style.background= "linear-gradient(to right,"+ color1.value +","+ color2.value +")";
-   console.log(body.style);
+   
     
    h3.textContent= body.style.background;
 }
